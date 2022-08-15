@@ -1,16 +1,1 @@
-asgiref==3.4.1
-beautifulsoup4==4.10.0
-certifi==2021.10.8
-charset-normalizer==2.0.11
-coverage==6.3.1
-DateTime==4.3
-idna==3.3
-jsons==1.6.1
-pytz==2021.3
 requests==2.27.1
-soupsieve==2.3.1
-sqlparse==0.4.2
-tk==0.1.0
-typish==1.9.3
-urllib3==1.26.8
-zope.interface==5.4.0
